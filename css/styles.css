@@ -216,6 +216,10 @@ body {
     margin-bottom: 8px;
 }
 
+.advantages-icon {
+    fill: #2e2f42;
+}
+
 .advantages-subtitle {
     margin-bottom: 8px;
     font-weight: 500;
@@ -548,7 +552,7 @@ body {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50,-50%) scale(1);
+    transform: translate(-50%, -50%) scale(1);
     width: 408px;
     min-height: 584px;
     background: #fcfcfc;
